@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Formula 1',
-    'Qual é o melhor corredor da liga hoje em dia?',
+    'Qual é o melhor corredor da liga de formula 1 hoje em dia?',
     'Max Verstappen'
 )
